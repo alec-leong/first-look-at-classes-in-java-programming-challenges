@@ -38,10 +38,10 @@ public class Employee {
 	 * <p>
 	 * Create an employee and initialize the following fields:
 	 * <ul>
-	 * <li><code>name</code> 	 	- An empty <code>String</code> object <code>""</code>.
-	 * <li><code>idNumber</code> 	- The <code>int</code> value <code>0</code>.
-	 * <li><code>department</code> 	- An empty <code>String</code> object <code>""</code>.
-	 * <li><code>department</code> 	- An empty <code>String</code> object <code>""</code>.
+	 * <li><code>name</code>        - An empty <code>String</code> object <code>""</code>.
+	 * <li><code>idNumber</code>    - The <code>int</code> value <code>0</code>.
+	 * <li><code>department</code>  - An empty <code>String</code> object <code>""</code>.
+	 * <li><code>department</code>  - An empty <code>String</code> object <code>""</code>.
 	 * </ul>
 	 */
 	public Employee() {
@@ -56,10 +56,10 @@ public class Employee {
 	 * <p>
 	 * Create an employee and initialize the following fields:
 	 * <ul>
-	 * <li><code>name</code> 	 	- The value of the <code>String</code> object parameter <code>name</code>.
-	 * <li><code>idNumber</code> 	- The value of the <code>int</code> parameter <code>idNumber</code>.
-	 * <li><code>department</code> 	- An empty <code>String</code> object <code>""</code>.
-	 * <li><code>department</code> 	- An empty <code>String</code> object <code>""</code>.
+	 * <li><code>name</code>        - The value of the <code>String</code> object parameter <code>name</code>.
+	 * <li><code>idNumber</code>    - The value of the <code>int</code> parameter <code>idNumber</code>.
+	 * <li><code>department</code>  - An empty <code>String</code> object <code>""</code>.
+	 * <li><code>department</code>  - An empty <code>String</code> object <code>""</code>.
 	 * </ul>
 	 * @param name 		the employee's name
 	 * @param idNumber	the employee's ID number
@@ -76,10 +76,10 @@ public class Employee {
 	 * <p>
 	 * Create an employee and initialize the following fields:
 	 * <ul>
-	 * <li><code>name</code> 	 	- The value of the <code>String</code> object parameter <code>name</code>.
-	 * <li><code>idNumber</code> 	- The value of the <code>int</code> parameter <code>idNumber</code>.
-	 * <li><code>department</code> 	- The value of the <code>String</code> object parameter <code>department</code>.
-	 * <li><code>department</code> 	- The value of the <code>String</code> object parameter <code>position</code>.
+	 * <li><code>name</code>        - The value of the <code>String</code> object parameter <code>name</code>.
+	 * <li><code>idNumber</code>    - The value of the <code>int</code> parameter <code>idNumber</code>.
+	 * <li><code>department</code>  - The value of the <code>String</code> object parameter <code>department</code>.
+	 * <li><code>department</code>  - The value of the <code>String</code> object parameter <code>position</code>.
 	 * </ul>
 	 * @param name 			the employee's name
 	 * @param idNumber 		the employee's ID number
