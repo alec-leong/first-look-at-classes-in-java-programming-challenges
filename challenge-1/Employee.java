@@ -81,10 +81,10 @@ public class Employee {
 	 * <li><code>department</code>  - The value of the <code>String</code> object parameter <code>department</code>.
 	 * <li><code>department</code>  - The value of the <code>String</code> object parameter <code>position</code>.
 	 * </ul>
-	 * @param name 			the employee's name
-	 * @param idNumber 		the employee's ID number
-	 * @param department	the name of the department where the employee works
-	 * @param position 		the employee's job title
+	 * @param name          the employee's name
+	 * @param idNumber      the employee's ID number
+	 * @param department    the name of the department where the employee works
+	 * @param position      the employee's job title
 	 */
 	public Employee(String name, int idNumber, String department, String position) {
 		this.name = name;
